@@ -1,0 +1,1 @@
+Finding documentation for Rails application templates is pretty difficult. The main file of this repository, `base.rb`, is basically just a list of the possible syntax, with short explanations of how it's useful.
